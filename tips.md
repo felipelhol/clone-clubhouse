@@ -1,0 +1,2 @@
+- git clone https://github.com/ErickWendel/semana-javascript-expert04.git --recurse-submodules
+- npm ci --silent
